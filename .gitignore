@@ -234,8 +234,10 @@ outputs/xgboost/*.parquet
 outputs/xgboost/scores/
 outputs/xgboost/*.html
 
-# Local-only assistant context
+# Local-only
 PROJECT_CONTEXT.md
+PROJECT_LOCAL_TODO.md
+
 
 # Leave-one-video-out experiment artifacts (regenerable)
 outputs/experiments/
